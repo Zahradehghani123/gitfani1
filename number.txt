@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 four
 five
 six
+=======
+>>>>>>> parent of e695d1e (add four on master)
